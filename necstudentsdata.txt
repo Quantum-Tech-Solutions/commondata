@@ -4237,7 +4237,7 @@
           "Gender": "F",
           "Father Name": "SHAIK  ASHRAF",
           "Admn Dt": "07/27/2017",
-          "Stud MobileNo": "7095120707",
+          "Stud MobileNo": "8374579585",
           "Parent MobileNo": "9290021707"
         },
         {
